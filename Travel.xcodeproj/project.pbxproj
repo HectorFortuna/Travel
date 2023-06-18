@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C42287CF2A3E9DCE008F79EB /* HomeTableViewHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = C42287CE2A3E9DCE008F79EB /* HomeTableViewHeader.xib */; };
+		C42287D22A3EA1D8008F79EB /* HomeTableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42287D12A3EA1D8008F79EB /* HomeTableViewHeader.swift */; };
 		C4FB9E272A3D30BB003FE8C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FB9E262A3D30BB003FE8C2 /* AppDelegate.swift */; };
 		C4FB9E292A3D30BB003FE8C2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FB9E282A3D30BB003FE8C2 /* SceneDelegate.swift */; };
 		C4FB9E2B2A3D30BB003FE8C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FB9E2A2A3D30BB003FE8C2 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C42287CE2A3E9DCE008F79EB /* HomeTableViewHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeTableViewHeader.xib; sourceTree = "<group>"; };
+		C42287D12A3EA1D8008F79EB /* HomeTableViewHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewHeader.swift; sourceTree = "<group>"; };
 		C4FB9E232A3D30BB003FE8C2 /* Travel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Travel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4FB9E262A3D30BB003FE8C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C4FB9E282A3D30BB003FE8C2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				C4FB9E2F2A3D30C6003FE8C2 /* Assets.xcassets */,
 				C4FB9E312A3D30C6003FE8C2 /* LaunchScreen.storyboard */,
 				C4FB9E342A3D30C6003FE8C2 /* Info.plist */,
+				C42287CE2A3E9DCE008F79EB /* HomeTableViewHeader.xib */,
+				C42287D12A3EA1D8008F79EB /* HomeTableViewHeader.swift */,
 			);
 			path = Travel;
 			sourceTree = "<group>";
@@ -125,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4FB9E332A3D30C6003FE8C2 /* LaunchScreen.storyboard in Resources */,
+				C42287CF2A3E9DCE008F79EB /* HomeTableViewHeader.xib in Resources */,
 				C4FB9E302A3D30C6003FE8C2 /* Assets.xcassets in Resources */,
 				C4FB9E2E2A3D30BB003FE8C2 /* Main.storyboard in Resources */,
 			);
@@ -138,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4FB9E2B2A3D30BB003FE8C2 /* ViewController.swift in Sources */,
+				C42287D22A3EA1D8008F79EB /* HomeTableViewHeader.swift in Sources */,
 				C4FB9E272A3D30BB003FE8C2 /* AppDelegate.swift in Sources */,
 				C4FB9E292A3D30BB003FE8C2 /* SceneDelegate.swift in Sources */,
 			);
